@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Eliauk365
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 😎 Hey! Nice To See You.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliauk365&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my page!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliauk365&theme=radical&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'am Eliauk365.
+
+<div>
+  <h2>Things I Code Whith</h2>
+  <a>
+      <img align="center" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=#007396" />
+      <img align="center" src="https://img.shields.io/badge/-SpingBoot-black?style=flat-square&logo=Spring Boot" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eliauk365&theme=nord&show_icons=true" />
+  </a>
+</div>
