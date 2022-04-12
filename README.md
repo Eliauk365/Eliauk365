@@ -18,5 +18,8 @@ I'am Eliauk365.
 <div>
     <h2>⚡ Recent Activity</h2>
     <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#792](https://github.com/Richasy/Bili.Uwp/issues/792) in [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+2. 🗣 Commented on [#70](https://github.com/easychen/pushdeer/issues/70) in [easychen/pushdeer](https://github.com/easychen/pushdeer)
+<!--END_SECTION:activity-->
 </div>
 
