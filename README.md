@@ -14,3 +14,9 @@ I'am Eliauk365.
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eliauk365&theme=nord&show_icons=true" />
   </a>
 </div>
+
+<div>
+    <h2>⚡ Recent Activity</h2>
+    <!--START_SECTION:activity-->
+</div>
+
