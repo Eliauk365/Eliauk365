@@ -18,6 +18,6 @@ I'am Eliauk365.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#792](https://github.com/Richasy/Bili.Uwp/issues/792) in [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
-2. 🗣 Commented on [#70](https://github.com/easychen/pushdeer/issues/70) in [easychen/pushdeer](https://github.com/easychen/pushdeer)
+1. ❗️ Closed issue [#1171](https://github.com/zhongyang219/TrafficMonitor/issues/1171) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+2. ❗️ Opened issue [#1171](https://github.com/zhongyang219/TrafficMonitor/issues/1171) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 <!--END_SECTION:activity-->
