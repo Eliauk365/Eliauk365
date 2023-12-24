@@ -1,0 +1,60 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": false
+    },
+    "profile": {
+        "name": "Mr.Xu",
+        "email": "251******2@qq.com",
+        "mobile": "176*******3",
+        "github": "https://github.com/Eliauk365",
+        "zhihu": "",
+        "workExpYear": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2019.09.01",
+                "2023.06.30"
+            ],
+            "school": "*****",
+            "major": "软件工程",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_time": "2022.5.24",
+            "award_info": "蓝桥杯三等奖"
+        }
+    ],
+    "workExpList": [
+        {
+            "work_time": [
+                "2023.10-至今"
+            ],
+            "company_name": "*******科技有限公司",
+            "department_name": "研发部"
+        }
+    ],
+    "skillList": [],
+    "projectList": [],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": ""
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
