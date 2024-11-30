@@ -13,7 +13,12 @@ Things I Code Whith
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eliauk365&theme=nord&show_icons=true" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliauk365&count_private=true) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliauk365)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eliauk365&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eliauk365&repo=convoychat" />
+</a>
 
 
 
