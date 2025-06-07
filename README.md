@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
   <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
-    <a href="https://zijin.me/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! I'm Eliauk365.&center=true&size=27" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Eliauk365.&center=true&size=27" alt="Typing SVG" />
     </a>
 </div>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!--         <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
 <!--         <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
-    <a href="https://www.kexsw.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://zijin.me/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
 <!--         <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
 <!--         <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
     <!-- visitor -->
@@ -41,13 +41,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust
 
 <div align="center">
+  <span>  </span>
     <!-- GitHub 数据统计 -->
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eliauk365&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eliauk365&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+    <span>  </span>
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eliauk365&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <span>  </span>
 </div>
 
 <div align="center">
     <p ><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliauk365&theme=dracula"/>
 </div>
 
 <div align="center">
