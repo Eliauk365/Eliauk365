@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
   <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
-    <a href="https://www.kexsw.top/">
+    <a href="https://zijin.me/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! I'm Eliauk365.&center=true&size=27" />
     </a>
 </div>
